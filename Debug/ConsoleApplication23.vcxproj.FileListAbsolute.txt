@@ -1,0 +1,6 @@
+C:\Users\Kareem Zayed\Downloads\ConsoleApplication23\Debug\ConsoleApplication23.exe
+C:\Users\Kareem Zayed\Downloads\ConsoleApplication23\Debug\ConsoleApplication23.pdb
+C:\Users\Kareem Zayed\Desktop\ConsoleApplication23\Debug\ConsoleApplication23.exe
+C:\Users\Kareem Zayed\Desktop\ConsoleApplication23\Debug\ConsoleApplication23.pdb
+D:\FCIS 2023\ConsoleApplication23\Debug\ConsoleApplication23.exe
+D:\FCIS 2023\ConsoleApplication23\Debug\ConsoleApplication23.pdb

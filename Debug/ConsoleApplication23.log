@@ -1,0 +1,4 @@
+﻿  Donor.cpp
+D:\FCIS 2023\ConsoleApplication23\Donor.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+D:\FCIS 2023\ConsoleApplication23\Donor.cpp(392,20): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication23.vcxproj -> D:\FCIS 2023\ConsoleApplication23\Debug\ConsoleApplication23.exe
